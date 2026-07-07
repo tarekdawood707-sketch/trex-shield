@@ -1,0 +1,6 @@
+{
+  "name": "Trex Shield",
+  "description": "A professional real-time cheat-detector and integrity companion for Trex card games. Prevents unauthorized moves and false passing with hidden hand tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
